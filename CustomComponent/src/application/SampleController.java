@@ -36,7 +36,7 @@ public class SampleController {
 				rectangulo.setFill(Color.AZURE);
 				break;
 			case 7:
-				rectangulo.setFill(Color.BISQUE);
+				rectangulo.setFill(Color.BEIGE);
 				break;
 			case 8:
 				rectangulo.setFill(Color.CADETBLUE);
