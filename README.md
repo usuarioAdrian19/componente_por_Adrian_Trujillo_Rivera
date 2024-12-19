@@ -26,3 +26,8 @@ Este componente esta formado por dos elementos solamente, un rectangulo y un bot
 ## ¿Que funcion realiza este componente?
 Al pulsar el boton llamado "Rotar Cuadrado" rotara el cuadrado azul situado a la derecha del boton cambiando su color de forma aleatoria y girando el cuadrado 30 grados a la izquierda.<br>
 Esta accion se repetira todas las veces que se pulse en el boton.
+
+---
+
+## Pruebas realizadas
+Al ser un componente tan sencillo las pruebas que se han realizado son igual de sencillas, siendo necesario la comprobacion del giro del cuadrado y su cambio de color. 
