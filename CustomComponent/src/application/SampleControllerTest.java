@@ -44,7 +44,7 @@ public class SampleControllerTest {
 				assertEquals(9,numeroColor);
 				break;
 			default:
-				assertEquals(10,numeroColor);
+				fail("Numero fuera de rango");
 				break;
 		}
 	}
