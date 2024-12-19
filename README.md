@@ -20,3 +20,9 @@ Este proyecto es un componente de JavaFX, que consta de un boton con el nombre "
 
 ---
 ## Elementos del componente
+Este componente esta formado por dos elementos solamente, un rectangulo y un boton.
+
+---
+## ¿Que funcion realiza este componente?
+Al pulsar el boton llamado "Rotar Cuadrado" rotara el cuadrado azul situado a la derecha del boton cambiando su color de forma aleatoria y girando el cuadrado 30 grados a la izquierda.<br>
+Esta accion se repetira todas las veces que se pulse en el boton.
