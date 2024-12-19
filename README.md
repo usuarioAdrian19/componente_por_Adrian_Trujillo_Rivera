@@ -13,9 +13,9 @@ Este proyecto es un componente de JavaFX, que consta de un boton con el nombre "
 
 ---
 ## ¿Que podemos aprender con este componente?
--Como se declaran elementos en un archivo fxml.
--Como se gestiona el controlador y se declaran las funciones que usaremos.
--Como se crea el main para mostrar las escenas
+-Como se declaran elementos en un archivo fxml.<br>
+-Como se gestiona el controlador y se declaran las funciones que usaremos.<br>
+-Como se crea el main para mostrar las escenas<br>
 -Como se realizan pruebas unitarias del funcionamiento de nuestro componente.
 
 ---
